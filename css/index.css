@@ -261,6 +261,11 @@ hr{
     background-color: var(--dropdown-hover-bg);
 }
 
+#dropdown1 {
+  pointer-events: none;
+  opacity: 0.6;
+}
+
 /* -------------- carousel ------------------*/
 .carousel-container {
     overflow: hidden;
