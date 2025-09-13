@@ -207,10 +207,10 @@ function closeVideo(){
  */
 
 const typed = new Typed('#prompts-sample', {
-    strings: ["How to solve a rubik's cube? Step by step guide", 
-                "What's Pixa playground?", 
-                "How to build an AI SaaS App?", 
-                "How to integrate Pixa API?"],
+    strings: ["a modern wedding dress inspired by Kikuyu traditional beadwork", 
+                "What is SHONA?", 
+                "Design a streetwear jacket that fuses with bold Zulu shield motifs", 
+                "Does cotton go well with silk in a dress design?"],
     typeSpeed: 80,
     smartBackspace: true, 
     loop: true,
