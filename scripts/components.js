@@ -119,7 +119,7 @@ class Prompt{
     answer(){
 
         let msg = {
-            "gpt 4o": "Hello from Gpt 4o, add 3 prompts",
+            "gpt 4o": "Hello from SHONA, Thanks for trying me out. I'll be live soon, so join the waitlist to get the real deal.",
             "gemini": "Hello from Gemini, add 3 prompts",
             "llama 3": "Hello from Meta Llama 3, add 3 prompts",
             "claude": "Hello from Claude, add 3 prompts",
